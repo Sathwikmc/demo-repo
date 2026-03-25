@@ -1,2 +1,2 @@
-there hhow are you # demo-repo
+# demo-repo
  there
